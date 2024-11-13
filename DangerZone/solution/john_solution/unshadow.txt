@@ -1,0 +1,2 @@
+Pam:$y$j9T$vOZDE3YqSmIOMPz8ciar0.$xZzOl4JKeR946gNMwnJ5dSmn0yHZxMCiN5OIL044wZC:1003:1003::/home/Pam:/bin/sh
+agent47:$y$j9T$pBQKN2F7jrLcVVVHTQRpC1$KC/TI0TvTjw3hsgqZ3PKBO1WWCRFh3obZFqXoOkZpg0:1010:1010::/home/agent47:/bin/sh

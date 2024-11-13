@@ -1,0 +1,2 @@
+Pam:x:1003:1003::/home/Pam:/bin/sh
+agent47:x:1010:1010::/home/agent47:/bin/sh
